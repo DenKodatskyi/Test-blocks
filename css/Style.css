@@ -1,0 +1,32 @@
+.box-container {
+    widows: 0 auto;
+    height: 0 auto;
+    text-align: center;
+    border: 2px solid rgb(40, 148, 190);
+    margin: 150px;
+}
+
+.block {
+    width: 300px;
+    margin: 30px auto;
+    padding: 30px;
+    border: 1px solid grey;
+    background-color: #F6F6F6;
+    text-align: center;
+    cursor: pointer;
+    }
+
+.stars img {
+    width: 25px;
+    margin-top: 1rem;
+}
+
+.stars img.active {
+    background-color: aquamarine;
+    border-radius: 13px;
+}
+
+.box-container h1 {
+    color: rgb(132, 0, 255);
+}
+
